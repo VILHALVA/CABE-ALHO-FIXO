@@ -4,7 +4,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) <br>
 
-<img src="https://4.bp.blogspot.com/-OBKyVVpLzmI/TrJ87Q5iLcI/AAAAAAAAGN8/zCbypNALX-A/s1600/power.png" align="center" width="280"> <br>
+<img src="FOTO.png" align="center" width="300"> <br>
 
 ## Pré-requisitos
 - Um editor de código (como Visual Studio Code, Sublime Text, etc.).
