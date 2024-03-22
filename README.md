@@ -28,31 +28,11 @@ O que o app faz:
 - O código JavaScript utiliza a função `window.scrollTo` para controlar a rolagem suave, ajustando para a altura do cabeçalho fixo.
 - Recomenda-se adicionar mais conteúdo à `<div>` com o ID `content` para testar o cabeçalho fixo com rolagem.
 
-## COMO USAR?
-* Clone o repositório para o seu sistema local:
-
-```bash
-git clone https://github.com/VILHALVA/CABECALHO-FIXO.git
-```
-
-* Navegue até o diretório do projeto.
-
-```bash
-cd CABECALHO-FIXO
-```
-
-* Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip CABECALHO-FIXO.zip
-```
-* Abra o arquivo `CODIGO.html` em seu navegador de preferência.
-
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
-* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
-* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+* [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
